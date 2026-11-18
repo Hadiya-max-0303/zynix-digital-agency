@@ -37,4 +37,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://aitrends0303-boop.github.io/zynix-digital-agency/sitemap.xml
+Sitemap: https://hadiya-max-0303.github.io/zynix-digital-agency/sitemap.xml
